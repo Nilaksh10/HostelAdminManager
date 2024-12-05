@@ -1,0 +1,11 @@
+C:\Users\Nilaksh\source\repos\AdminHostelManager\AdminHostelManager\bin\Debug\AdminHostelManager.exe.config
+C:\Users\Nilaksh\source\repos\AdminHostelManager\AdminHostelManager\bin\Debug\AdminHostelManager.exe
+C:\Users\Nilaksh\source\repos\AdminHostelManager\AdminHostelManager\bin\Debug\AdminHostelManager.pdb
+C:\Users\Nilaksh\source\repos\AdminHostelManager\AdminHostelManager\obj\Debug\AdminHostelManager.csproj.AssemblyReference.cache
+C:\Users\Nilaksh\source\repos\AdminHostelManager\AdminHostelManager\obj\Debug\AdminHostelManager.Form1.resources
+C:\Users\Nilaksh\source\repos\AdminHostelManager\AdminHostelManager\obj\Debug\AdminHostelManager.Properties.Resources.resources
+C:\Users\Nilaksh\source\repos\AdminHostelManager\AdminHostelManager\obj\Debug\AdminHostelManager.csproj.GenerateResource.cache
+C:\Users\Nilaksh\source\repos\AdminHostelManager\AdminHostelManager\obj\Debug\AdminHostelManager.csproj.CoreCompileInputs.cache
+C:\Users\Nilaksh\source\repos\AdminHostelManager\AdminHostelManager\obj\Debug\AdminHostelManager.exe
+C:\Users\Nilaksh\source\repos\AdminHostelManager\AdminHostelManager\obj\Debug\AdminHostelManager.pdb
+C:\Users\Nilaksh\source\repos\AdminHostelManager\AdminHostelManager\obj\Debug\AdminHostelManager.Dashboard.resources
