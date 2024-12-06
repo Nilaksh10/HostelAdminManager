@@ -46,5 +46,12 @@ namespace AdminHostelManager
         {
 
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            StudentForm studentForm = new StudentForm();
+            studentForm.Show();
+            this.Hide();
+        }
     }
 }
