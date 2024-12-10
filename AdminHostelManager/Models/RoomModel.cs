@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace AdminHostelManager.Models
+namespace AdminHostelManager.Models    
 {
     internal class RoomModel
     {
@@ -12,5 +12,8 @@ namespace AdminHostelManager.Models
         private int RoomNo;
         private string Capacity;
         private string RoomType;
+        private string akash;
+        private string drishti;
+
     }
 }

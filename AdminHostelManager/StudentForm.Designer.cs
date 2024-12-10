@@ -48,7 +48,7 @@
             this.txtStudentName.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtStudentName.Location = new System.Drawing.Point(42, 162);
             this.txtStudentName.Name = "txtStudentName";
-            this.txtStudentName.Size = new System.Drawing.Size(520, 39);
+            this.txtStudentName.Size = new System.Drawing.Size(520, 34);
             this.txtStudentName.TabIndex = 0;
             this.txtStudentName.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
             // 
@@ -57,7 +57,7 @@
             this.txtEmail.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtEmail.Location = new System.Drawing.Point(42, 442);
             this.txtEmail.Name = "txtEmail";
-            this.txtEmail.Size = new System.Drawing.Size(520, 39);
+            this.txtEmail.Size = new System.Drawing.Size(520, 34);
             this.txtEmail.TabIndex = 1;
             // 
             // txtContact
@@ -65,7 +65,7 @@
             this.txtContact.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtContact.Location = new System.Drawing.Point(42, 349);
             this.txtContact.Name = "txtContact";
-            this.txtContact.Size = new System.Drawing.Size(520, 39);
+            this.txtContact.Size = new System.Drawing.Size(520, 34);
             this.txtContact.TabIndex = 2;
             // 
             // txtGender
@@ -73,7 +73,7 @@
             this.txtGender.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtGender.Location = new System.Drawing.Point(42, 255);
             this.txtGender.Name = "txtGender";
-            this.txtGender.Size = new System.Drawing.Size(520, 39);
+            this.txtGender.Size = new System.Drawing.Size(520, 34);
             this.txtGender.TabIndex = 3;
             this.txtGender.TextChanged += new System.EventHandler(this.textBox4_TextChanged);
             // 
@@ -83,7 +83,7 @@
             this.label1.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.Location = new System.Drawing.Point(36, 127);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(176, 32);
+            this.label1.Size = new System.Drawing.Size(148, 28);
             this.label1.TabIndex = 4;
             this.label1.Text = "Student Name";
             // 
@@ -93,7 +93,7 @@
             this.label2.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.Location = new System.Drawing.Point(36, 220);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(97, 32);
+            this.label2.Size = new System.Drawing.Size(80, 28);
             this.label2.TabIndex = 5;
             this.label2.Text = "Gender";
             // 
@@ -103,7 +103,7 @@
             this.label3.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label3.Location = new System.Drawing.Point(36, 314);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(102, 32);
+            this.label3.Size = new System.Drawing.Size(85, 28);
             this.label3.TabIndex = 6;
             this.label3.Text = "Contact";
             // 
@@ -113,7 +113,7 @@
             this.label4.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label4.Location = new System.Drawing.Point(36, 407);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(76, 32);
+            this.label4.Size = new System.Drawing.Size(64, 28);
             this.label4.TabIndex = 7;
             this.label4.Text = "Email";
             // 
@@ -123,7 +123,7 @@
             this.label5.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label5.Location = new System.Drawing.Point(36, 495);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(161, 32);
+            this.label5.Size = new System.Drawing.Size(137, 28);
             this.label5.TabIndex = 9;
             this.label5.Text = "Date of Birth";
             // 
@@ -133,7 +133,7 @@
             this.label6.Font = new System.Drawing.Font("Segoe UI", 18F, System.Drawing.FontStyle.Bold);
             this.label6.Location = new System.Drawing.Point(42, 43);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(419, 48);
+            this.label6.Size = new System.Drawing.Size(353, 41);
             this.label6.TabIndex = 10;
             this.label6.Text = "ADD STUDENT DETAILS";
             // 
@@ -159,7 +159,7 @@
             // button2
             // 
             this.button2.Font = new System.Drawing.Font("Segoe UI", 14F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button2.Location = new System.Drawing.Point(745, 43);
+            this.button2.Location = new System.Drawing.Point(770, 43);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(379, 48);
             this.button2.TabIndex = 14;

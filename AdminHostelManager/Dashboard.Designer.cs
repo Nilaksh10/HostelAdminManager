@@ -56,6 +56,7 @@
             this.button4 = new System.Windows.Forms.Button();
             this.button5 = new System.Windows.Forms.Button();
             this.button6 = new System.Windows.Forms.Button();
+            this.label15 = new System.Windows.Forms.Label();
             this.menuStrip1.SuspendLayout();
             this.panel1.SuspendLayout();
             this.panel2.SuspendLayout();
@@ -67,19 +68,20 @@
             // 
             // menuStrip1
             // 
+            this.menuStrip1.BackColor = System.Drawing.Color.Ivory;
             this.menuStrip1.Font = new System.Drawing.Font("Segoe UI Black", 18F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.menuStrip1.ImageScalingSize = new System.Drawing.Size(24, 24);
             this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.hOTELADMINMANAGEMENTSYSTEMToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(1260, 56);
+            this.menuStrip1.Size = new System.Drawing.Size(1260, 49);
             this.menuStrip1.TabIndex = 0;
             // 
             // hOTELADMINMANAGEMENTSYSTEMToolStripMenuItem
             // 
             this.hOTELADMINMANAGEMENTSYSTEMToolStripMenuItem.Name = "hOTELADMINMANAGEMENTSYSTEMToolStripMenuItem";
-            this.hOTELADMINMANAGEMENTSYSTEMToolStripMenuItem.Size = new System.Drawing.Size(733, 52);
+            this.hOTELADMINMANAGEMENTSYSTEMToolStripMenuItem.Size = new System.Drawing.Size(615, 45);
             this.hOTELADMINMANAGEMENTSYSTEMToolStripMenuItem.Text = "HOTEL ADMIN MANAGEMENT SYSTEM";
             // 
             // panel1
@@ -102,9 +104,10 @@
             this.label7.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label7.Location = new System.Drawing.Point(50, 51);
             this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(155, 32);
+            this.label7.Size = new System.Drawing.Size(131, 28);
             this.label7.TabIndex = 7;
             this.label7.Text = "250 Students";
+            this.label7.Click += new System.EventHandler(this.label7_Click);
             // 
             // label1
             // 
@@ -112,7 +115,7 @@
             this.label1.Font = new System.Drawing.Font("Segoe UI", 14F, System.Drawing.FontStyle.Bold);
             this.label1.Location = new System.Drawing.Point(12, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(230, 38);
+            this.label1.Size = new System.Drawing.Size(200, 32);
             this.label1.TabIndex = 4;
             this.label1.Text = "Student Records";
             this.label1.Click += new System.EventHandler(this.label1_Click);
@@ -136,7 +139,7 @@
             this.label3.Font = new System.Drawing.Font("Segoe UI", 14F, System.Drawing.FontStyle.Bold);
             this.label3.Location = new System.Drawing.Point(3, 0);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(249, 38);
+            this.label3.Size = new System.Drawing.Size(215, 32);
             this.label3.TabIndex = 6;
             this.label3.Text = "Room Availability";
             // 
@@ -146,7 +149,7 @@
             this.label9.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label9.Location = new System.Drawing.Point(14, 51);
             this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(223, 32);
+            this.label9.Size = new System.Drawing.Size(188, 28);
             this.label9.TabIndex = 9;
             this.label9.Text = "50/200 Rooms Free";
             // 
@@ -170,7 +173,7 @@
             this.label2.Font = new System.Drawing.Font("Segoe UI", 14F, System.Drawing.FontStyle.Bold);
             this.label2.Location = new System.Drawing.Point(38, 0);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(165, 38);
+            this.label2.Size = new System.Drawing.Size(143, 32);
             this.label2.TabIndex = 5;
             this.label2.Text = "Complaints";
             this.label2.Click += new System.EventHandler(this.label2_Click);
@@ -181,7 +184,7 @@
             this.label8.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label8.Location = new System.Drawing.Point(39, 51);
             this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(156, 32);
+            this.label8.Size = new System.Drawing.Size(132, 28);
             this.label8.TabIndex = 8;
             this.label8.Text = "3 Unresolved";
             // 
@@ -204,7 +207,7 @@
             this.label11.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label11.Location = new System.Drawing.Point(58, 49);
             this.label11.Name = "label11";
-            this.label11.Size = new System.Drawing.Size(121, 32);
+            this.label11.Size = new System.Drawing.Size(103, 28);
             this.label11.TabIndex = 11;
             this.label11.Text = "Inside 120";
             // 
@@ -214,7 +217,7 @@
             this.label4.Font = new System.Drawing.Font("Segoe UI", 14F, System.Drawing.FontStyle.Bold);
             this.label4.Location = new System.Drawing.Point(37, -1);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(172, 38);
+            this.label4.Size = new System.Drawing.Size(150, 32);
             this.label4.TabIndex = 4;
             this.label4.Text = "In/Out Logs";
             // 
@@ -237,7 +240,7 @@
             this.label5.Font = new System.Drawing.Font("Segoe UI", 14F, System.Drawing.FontStyle.Bold);
             this.label5.Location = new System.Drawing.Point(31, 0);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(187, 38);
+            this.label5.Size = new System.Drawing.Size(162, 32);
             this.label5.TabIndex = 7;
             this.label5.Text = "Notifications";
             // 
@@ -247,7 +250,7 @@
             this.label10.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label10.Location = new System.Drawing.Point(41, 49);
             this.label10.Name = "label10";
-            this.label10.Size = new System.Drawing.Size(154, 32);
+            this.label10.Size = new System.Drawing.Size(129, 28);
             this.label10.TabIndex = 10;
             this.label10.Text = "2 New Alerts";
             this.label10.Click += new System.EventHandler(this.label10_Click);
@@ -271,7 +274,7 @@
             this.label12.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label12.Location = new System.Drawing.Point(27, 49);
             this.label12.Name = "label12";
-            this.label12.Size = new System.Drawing.Size(193, 32);
+            this.label12.Size = new System.Drawing.Size(161, 28);
             this.label12.TabIndex = 12;
             this.label12.Text = "80% Attendance";
             // 
@@ -281,7 +284,7 @@
             this.label6.Font = new System.Drawing.Font("Segoe UI", 14F, System.Drawing.FontStyle.Bold);
             this.label6.Location = new System.Drawing.Point(38, 0);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(167, 38);
+            this.label6.Size = new System.Drawing.Size(145, 32);
             this.label6.TabIndex = 4;
             this.label6.Text = "Attendance";
             // 
@@ -291,7 +294,7 @@
             this.label13.Font = new System.Drawing.Font("Segoe UI", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label13.Location = new System.Drawing.Point(12, 80);
             this.label13.Name = "label13";
-            this.label13.Size = new System.Drawing.Size(354, 45);
+            this.label13.Size = new System.Drawing.Size(296, 37);
             this.label13.TabIndex = 8;
             this.label13.Text = "WELCOME WARDEN ! ";
             // 
@@ -301,7 +304,7 @@
             this.label14.Font = new System.Drawing.Font("Segoe UI", 14F, System.Drawing.FontStyle.Bold);
             this.label14.Location = new System.Drawing.Point(406, 87);
             this.label14.Name = "label14";
-            this.label14.Size = new System.Drawing.Size(225, 38);
+            this.label14.Size = new System.Drawing.Size(194, 32);
             this.label14.TabIndex = 9;
             this.label14.Text = "Date and Time :";
             // 
@@ -353,6 +356,7 @@
             this.button4.TabIndex = 13;
             this.button4.Text = "Allocate Rooms";
             this.button4.UseVisualStyleBackColor = false;
+            this.button4.Click += new System.EventHandler(this.button4_Click);
             // 
             // button5
             // 
@@ -365,6 +369,7 @@
             this.button5.TabIndex = 14;
             this.button5.Text = "Logout";
             this.button5.UseVisualStyleBackColor = false;
+            this.button5.Click += new System.EventHandler(this.button5_Click);
             // 
             // button6
             // 
@@ -378,11 +383,24 @@
             this.button6.Text = "Admin Profile";
             this.button6.UseVisualStyleBackColor = false;
             // 
+            // label15
+            // 
+            this.label15.AutoSize = true;
+            this.label15.Font = new System.Drawing.Font("Segoe UI", 14F, System.Drawing.FontStyle.Bold);
+            this.label15.Location = new System.Drawing.Point(606, 87);
+            this.label15.Name = "label15";
+            this.label15.Size = new System.Drawing.Size(70, 32);
+            this.label15.TabIndex = 16;
+            this.label15.Text = "Time";
+            this.label15.Click += new System.EventHandler(this.label15_Click);
+            // 
             // Dashboard
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.Color.FloralWhite;
             this.ClientSize = new System.Drawing.Size(1260, 689);
+            this.Controls.Add(this.label15);
             this.Controls.Add(this.button6);
             this.Controls.Add(this.button5);
             this.Controls.Add(this.button4);
@@ -451,5 +469,6 @@
         private System.Windows.Forms.Button button4;
         private System.Windows.Forms.Button button5;
         private System.Windows.Forms.Button button6;
+        private System.Windows.Forms.Label label15;
     }
 }
