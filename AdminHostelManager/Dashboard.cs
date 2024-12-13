@@ -38,6 +38,8 @@ namespace AdminHostelManager
         {
             string connectionString = "Data Source=LAPTOP-5C6MNSV7\\SQLEXPRESS;Initial Catalog=HostelAdminManagementSystem;Integrated Security=True";
             string query = "SELECT COUNT(*) FROM Students";
+            string query1 = "SELECT COUNT(*) FROM Rooms";
+            string query2 = "SELECT COUNT(*) FROM Complaints";
 
             using (SqlConnection connection = new SqlConnection(connectionString))
             {
@@ -51,6 +53,28 @@ namespace AdminHostelManager
                 catch (Exception ex)
                 {
                     MessageBox.Show("Error: " + ex.Message, "Database Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                }
+                try
+                {
+                   
+                    SqlCommand command = new SqlCommand(query2, connection);
+                    int studentCount = (int)command.ExecuteScalar();
+                    label8.Text = "Complaints: " + studentCount.ToString();
+                }
+                catch (Exception ex)
+                {
+                    MessageBox.Show("Error: " + ex.Message, "Database Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                }
+                try
+                {
+                
+                    SqlCommand command1 = new SqlCommand(query1, connection);
+                    int RoomCount = (int)command1.ExecuteScalar();
+                    label9.Text = "No of Rooms : " + RoomCount.ToString();
+                }
+                catch(Exception ex)
+                {
+                    MessageBox.Show("Error: " + ex.Message, "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 }
 
                 try
@@ -106,6 +130,34 @@ namespace AdminHostelManager
         {
             Form1 form = new Form1();
             form.Show();
+            this.Hide();
+        }
+
+        private void label9_Click(object sender, EventArgs e)
+        {
+            RoomAllocationList Allocation = new RoomAllocationList();
+            Allocation.Show();
+            this.Hide();
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Complaints complaints = new Complaints();
+            complaints.Show();
+            this.Hide();
+        }
+
+        private void label8_Click(object sender, EventArgs e)
+        {
+            ComplaintList complaintList = new ComplaintList();
+            complaintList.Show();
+            this.Hide();
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            Attendance attendance = new Attendance();
+            attendance.Show();
             this.Hide();
         }
     }

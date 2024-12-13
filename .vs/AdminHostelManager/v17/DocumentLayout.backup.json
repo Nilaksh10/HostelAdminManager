@@ -1,0 +1,432 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nilaksh\\source\\repos\\AdminHostelManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{672DBA47-210E-46AC-B56D-80FD5400E00D}|AdminHostelManager\\AdminHostelManager.csproj|c:\\users\\nilaksh\\source\\repos\\adminhostelmanager\\adminhostelmanager\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{672DBA47-210E-46AC-B56D-80FD5400E00D}|AdminHostelManager\\AdminHostelManager.csproj|solutionrelative:adminhostelmanager\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{672DBA47-210E-46AC-B56D-80FD5400E00D}|AdminHostelManager\\AdminHostelManager.csproj|C:\\Users\\Nilaksh\\source\\repos\\AdminHostelManager\\adminhostelmanager\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{672DBA47-210E-46AC-B56D-80FD5400E00D}|AdminHostelManager\\AdminHostelManager.csproj|solutionrelative:adminhostelmanager\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{672DBA47-210E-46AC-B56D-80FD5400E00D}|AdminHostelManager\\AdminHostelManager.csproj|C:\\Users\\Nilaksh\\source\\repos\\AdminHostelManager\\adminhostelmanager\\attendance.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{672DBA47-210E-46AC-B56D-80FD5400E00D}|AdminHostelManager\\AdminHostelManager.csproj|solutionrelative:adminhostelmanager\\attendance.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{672DBA47-210E-46AC-B56D-80FD5400E00D}|AdminHostelManager\\AdminHostelManager.csproj|C:\\Users\\Nilaksh\\source\\repos\\AdminHostelManager\\adminhostelmanager\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{672DBA47-210E-46AC-B56D-80FD5400E00D}|AdminHostelManager\\AdminHostelManager.csproj|solutionrelative:adminhostelmanager\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{672DBA47-210E-46AC-B56D-80FD5400E00D}|AdminHostelManager\\AdminHostelManager.csproj|C:\\Users\\Nilaksh\\source\\repos\\AdminHostelManager\\adminhostelmanager\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{672DBA47-210E-46AC-B56D-80FD5400E00D}|AdminHostelManager\\AdminHostelManager.csproj|solutionrelative:adminhostelmanager\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{672DBA47-210E-46AC-B56D-80FD5400E00D}|AdminHostelManager\\AdminHostelManager.csproj|C:\\Users\\Nilaksh\\source\\repos\\AdminHostelManager\\adminhostelmanager\\complaints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{672DBA47-210E-46AC-B56D-80FD5400E00D}|AdminHostelManager\\AdminHostelManager.csproj|solutionrelative:adminhostelmanager\\complaints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{672DBA47-210E-46AC-B56D-80FD5400E00D}|AdminHostelManager\\AdminHostelManager.csproj|C:\\Users\\Nilaksh\\source\\repos\\AdminHostelManager\\adminhostelmanager\\complaints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{672DBA47-210E-46AC-B56D-80FD5400E00D}|AdminHostelManager\\AdminHostelManager.csproj|solutionrelative:adminhostelmanager\\complaints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{672DBA47-210E-46AC-B56D-80FD5400E00D}|AdminHostelManager\\AdminHostelManager.csproj|C:\\Users\\Nilaksh\\source\\repos\\AdminHostelManager\\adminhostelmanager\\models\\attendancemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{672DBA47-210E-46AC-B56D-80FD5400E00D}|AdminHostelManager\\AdminHostelManager.csproj|solutionrelative:adminhostelmanager\\models\\attendancemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{672DBA47-210E-46AC-B56D-80FD5400E00D}|AdminHostelManager\\AdminHostelManager.csproj|C:\\Users\\Nilaksh\\source\\repos\\AdminHostelManager\\adminhostelmanager\\allocaterooms.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{672DBA47-210E-46AC-B56D-80FD5400E00D}|AdminHostelManager\\AdminHostelManager.csproj|solutionrelative:adminhostelmanager\\allocaterooms.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{672DBA47-210E-46AC-B56D-80FD5400E00D}|AdminHostelManager\\AdminHostelManager.csproj|C:\\Users\\Nilaksh\\source\\repos\\AdminHostelManager\\adminhostelmanager\\complaintlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{672DBA47-210E-46AC-B56D-80FD5400E00D}|AdminHostelManager\\AdminHostelManager.csproj|solutionrelative:adminhostelmanager\\complaintlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{672DBA47-210E-46AC-B56D-80FD5400E00D}|AdminHostelManager\\AdminHostelManager.csproj|C:\\Users\\Nilaksh\\source\\repos\\AdminHostelManager\\adminhostelmanager\\complaintlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{672DBA47-210E-46AC-B56D-80FD5400E00D}|AdminHostelManager\\AdminHostelManager.csproj|solutionrelative:adminhostelmanager\\complaintlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{672DBA47-210E-46AC-B56D-80FD5400E00D}|AdminHostelManager\\AdminHostelManager.csproj|C:\\Users\\Nilaksh\\source\\repos\\AdminHostelManager\\adminhostelmanager\\studenlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{672DBA47-210E-46AC-B56D-80FD5400E00D}|AdminHostelManager\\AdminHostelManager.csproj|solutionrelative:adminhostelmanager\\studenlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{672DBA47-210E-46AC-B56D-80FD5400E00D}|AdminHostelManager\\AdminHostelManager.csproj|C:\\Users\\Nilaksh\\source\\repos\\AdminHostelManager\\adminhostelmanager\\studenlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{672DBA47-210E-46AC-B56D-80FD5400E00D}|AdminHostelManager\\AdminHostelManager.csproj|solutionrelative:adminhostelmanager\\studenlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{672DBA47-210E-46AC-B56D-80FD5400E00D}|AdminHostelManager\\AdminHostelManager.csproj|C:\\Users\\Nilaksh\\source\\repos\\AdminHostelManager\\adminhostelmanager\\roomallocationlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{672DBA47-210E-46AC-B56D-80FD5400E00D}|AdminHostelManager\\AdminHostelManager.csproj|solutionrelative:adminhostelmanager\\roomallocationlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{672DBA47-210E-46AC-B56D-80FD5400E00D}|AdminHostelManager\\AdminHostelManager.csproj|C:\\Users\\Nilaksh\\source\\repos\\AdminHostelManager\\adminhostelmanager\\roomallocationlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{672DBA47-210E-46AC-B56D-80FD5400E00D}|AdminHostelManager\\AdminHostelManager.csproj|solutionrelative:adminhostelmanager\\roomallocationlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{672DBA47-210E-46AC-B56D-80FD5400E00D}|AdminHostelManager\\AdminHostelManager.csproj|C:\\Users\\Nilaksh\\source\\repos\\AdminHostelManager\\adminhostelmanager\\studentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{672DBA47-210E-46AC-B56D-80FD5400E00D}|AdminHostelManager\\AdminHostelManager.csproj|solutionrelative:adminhostelmanager\\studentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{672DBA47-210E-46AC-B56D-80FD5400E00D}|AdminHostelManager\\AdminHostelManager.csproj|C:\\Users\\Nilaksh\\source\\repos\\AdminHostelManager\\adminhostelmanager\\allocaterooms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{672DBA47-210E-46AC-B56D-80FD5400E00D}|AdminHostelManager\\AdminHostelManager.csproj|solutionrelative:adminhostelmanager\\allocaterooms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{672DBA47-210E-46AC-B56D-80FD5400E00D}|AdminHostelManager\\AdminHostelManager.csproj|C:\\Users\\Nilaksh\\source\\repos\\AdminHostelManager\\adminhostelmanager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{672DBA47-210E-46AC-B56D-80FD5400E00D}|AdminHostelManager\\AdminHostelManager.csproj|solutionrelative:adminhostelmanager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{672DBA47-210E-46AC-B56D-80FD5400E00D}|AdminHostelManager\\AdminHostelManager.csproj|C:\\Users\\Nilaksh\\source\\repos\\AdminHostelManager\\adminhostelmanager\\studenlist.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{672DBA47-210E-46AC-B56D-80FD5400E00D}|AdminHostelManager\\AdminHostelManager.csproj|solutionrelative:adminhostelmanager\\studenlist.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{672DBA47-210E-46AC-B56D-80FD5400E00D}|AdminHostelManager\\AdminHostelManager.csproj|C:\\Users\\Nilaksh\\source\\repos\\AdminHostelManager\\adminhostelmanager\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{672DBA47-210E-46AC-B56D-80FD5400E00D}|AdminHostelManager\\AdminHostelManager.csproj|solutionrelative:adminhostelmanager\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{672DBA47-210E-46AC-B56D-80FD5400E00D}|AdminHostelManager\\AdminHostelManager.csproj|C:\\Users\\Nilaksh\\source\\repos\\AdminHostelManager\\adminhostelmanager\\studentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{672DBA47-210E-46AC-B56D-80FD5400E00D}|AdminHostelManager\\AdminHostelManager.csproj|solutionrelative:adminhostelmanager\\studentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{672DBA47-210E-46AC-B56D-80FD5400E00D}|AdminHostelManager\\AdminHostelManager.csproj|C:\\Users\\Nilaksh\\source\\repos\\AdminHostelManager\\adminhostelmanager\\studentform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{672DBA47-210E-46AC-B56D-80FD5400E00D}|AdminHostelManager\\AdminHostelManager.csproj|solutionrelative:adminhostelmanager\\studentform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{672DBA47-210E-46AC-B56D-80FD5400E00D}|AdminHostelManager\\AdminHostelManager.csproj|C:\\Users\\Nilaksh\\source\\repos\\AdminHostelManager\\adminhostelmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{672DBA47-210E-46AC-B56D-80FD5400E00D}|AdminHostelManager\\AdminHostelManager.csproj|solutionrelative:adminhostelmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{672DBA47-210E-46AC-B56D-80FD5400E00D}|AdminHostelManager\\AdminHostelManager.csproj|C:\\Users\\Nilaksh\\source\\repos\\AdminHostelManager\\adminhostelmanager\\allocaterooms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{672DBA47-210E-46AC-B56D-80FD5400E00D}|AdminHostelManager\\AdminHostelManager.csproj|solutionrelative:adminhostelmanager\\allocaterooms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{672DBA47-210E-46AC-B56D-80FD5400E00D}|AdminHostelManager\\AdminHostelManager.csproj|C:\\Users\\Nilaksh\\source\\repos\\AdminHostelManager\\adminhostelmanager\\models\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{672DBA47-210E-46AC-B56D-80FD5400E00D}|AdminHostelManager\\AdminHostelManager.csproj|solutionrelative:adminhostelmanager\\models\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{672DBA47-210E-46AC-B56D-80FD5400E00D}|AdminHostelManager\\AdminHostelManager.csproj|C:\\Users\\Nilaksh\\source\\repos\\AdminHostelManager\\adminhostelmanager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{672DBA47-210E-46AC-B56D-80FD5400E00D}|AdminHostelManager\\AdminHostelManager.csproj|solutionrelative:adminhostelmanager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Attendance.cs",
+              "DocumentMoniker": "C:\\Users\\Nilaksh\\source\\repos\\AdminHostelManager\\AdminHostelManager\\Attendance.cs",
+              "RelativeDocumentMoniker": "AdminHostelManager\\Attendance.cs",
+              "ToolTip": "C:\\Users\\Nilaksh\\source\\repos\\AdminHostelManager\\AdminHostelManager\\Attendance.cs",
+              "RelativeToolTip": "AdminHostelManager\\Attendance.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAwwBcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T09:20:52.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AttendanceModel.cs",
+              "DocumentMoniker": "C:\\Users\\Nilaksh\\source\\repos\\AdminHostelManager\\AdminHostelManager\\Models\\AttendanceModel.cs",
+              "RelativeDocumentMoniker": "AdminHostelManager\\Models\\AttendanceModel.cs",
+              "ToolTip": "C:\\Users\\Nilaksh\\source\\repos\\AdminHostelManager\\AdminHostelManager\\Models\\AttendanceModel.cs",
+              "RelativeToolTip": "AdminHostelManager\\Models\\AttendanceModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T18:10:13.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Attendance.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Nilaksh\\source\\repos\\AdminHostelManager\\AdminHostelManager\\Attendance.Designer.cs",
+              "RelativeDocumentMoniker": "AdminHostelManager\\Attendance.Designer.cs",
+              "ToolTip": "C:\\Users\\Nilaksh\\source\\repos\\AdminHostelManager\\AdminHostelManager\\Attendance.Designer.cs",
+              "RelativeToolTip": "AdminHostelManager\\Attendance.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T18:04:29.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ComplaintList.cs",
+              "DocumentMoniker": "C:\\Users\\Nilaksh\\source\\repos\\AdminHostelManager\\AdminHostelManager\\ComplaintList.cs",
+              "RelativeDocumentMoniker": "AdminHostelManager\\ComplaintList.cs",
+              "ToolTip": "C:\\Users\\Nilaksh\\source\\repos\\AdminHostelManager\\AdminHostelManager\\ComplaintList.cs",
+              "RelativeToolTip": "AdminHostelManager\\ComplaintList.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAUwCYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T15:31:16.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ComplaintList.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Nilaksh\\source\\repos\\AdminHostelManager\\AdminHostelManager\\ComplaintList.cs",
+              "RelativeDocumentMoniker": "AdminHostelManager\\ComplaintList.cs",
+              "ToolTip": "C:\\Users\\Nilaksh\\source\\repos\\AdminHostelManager\\AdminHostelManager\\ComplaintList.cs [Design]",
+              "RelativeToolTip": "AdminHostelManager\\ComplaintList.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T15:28:07.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AllocateRooms.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Nilaksh\\source\\repos\\AdminHostelManager\\AdminHostelManager\\AllocateRooms.Designer.cs",
+              "RelativeDocumentMoniker": "AdminHostelManager\\AllocateRooms.Designer.cs",
+              "ToolTip": "C:\\Users\\Nilaksh\\source\\repos\\AdminHostelManager\\AdminHostelManager\\AllocateRooms.Designer.cs",
+              "RelativeToolTip": "AdminHostelManager\\AllocateRooms.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T14:46:19.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Attendance.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Nilaksh\\source\\repos\\AdminHostelManager\\AdminHostelManager\\Attendance.cs",
+              "RelativeDocumentMoniker": "AdminHostelManager\\Attendance.cs",
+              "ToolTip": "C:\\Users\\Nilaksh\\source\\repos\\AdminHostelManager\\AdminHostelManager\\Attendance.cs [Design]",
+              "RelativeToolTip": "AdminHostelManager\\Attendance.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T09:19:37.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Complaints.cs",
+              "DocumentMoniker": "C:\\Users\\Nilaksh\\source\\repos\\AdminHostelManager\\AdminHostelManager\\Complaints.cs",
+              "RelativeDocumentMoniker": "AdminHostelManager\\Complaints.cs",
+              "ToolTip": "C:\\Users\\Nilaksh\\source\\repos\\AdminHostelManager\\AdminHostelManager\\Complaints.cs",
+              "RelativeToolTip": "AdminHostelManager\\Complaints.cs",
+              "ViewState": "AgIAAIwAAAAAAAAAAAAuwJEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T06:48:00.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Complaints.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Nilaksh\\source\\repos\\AdminHostelManager\\AdminHostelManager\\Complaints.cs",
+              "RelativeDocumentMoniker": "AdminHostelManager\\Complaints.cs",
+              "ToolTip": "C:\\Users\\Nilaksh\\source\\repos\\AdminHostelManager\\AdminHostelManager\\Complaints.cs [Design]",
+              "RelativeToolTip": "AdminHostelManager\\Complaints.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T06:45:55.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "StudentForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Nilaksh\\source\\repos\\AdminHostelManager\\AdminHostelManager\\StudentForm.cs",
+              "RelativeDocumentMoniker": "AdminHostelManager\\StudentForm.cs",
+              "ToolTip": "C:\\Users\\Nilaksh\\source\\repos\\AdminHostelManager\\AdminHostelManager\\StudentForm.cs [Design]",
+              "RelativeToolTip": "AdminHostelManager\\StudentForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T14:33:15.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RoomAllocationList.cs",
+              "DocumentMoniker": "C:\\Users\\Nilaksh\\source\\repos\\AdminHostelManager\\AdminHostelManager\\RoomAllocationList.cs",
+              "RelativeDocumentMoniker": "AdminHostelManager\\RoomAllocationList.cs",
+              "ToolTip": "C:\\Users\\Nilaksh\\source\\repos\\AdminHostelManager\\AdminHostelManager\\RoomAllocationList.cs",
+              "RelativeToolTip": "AdminHostelManager\\RoomAllocationList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T05:10:19.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RoomAllocationList.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Nilaksh\\source\\repos\\AdminHostelManager\\AdminHostelManager\\RoomAllocationList.cs",
+              "RelativeDocumentMoniker": "AdminHostelManager\\RoomAllocationList.cs",
+              "ToolTip": "C:\\Users\\Nilaksh\\source\\repos\\AdminHostelManager\\AdminHostelManager\\RoomAllocationList.cs [Design]",
+              "RelativeToolTip": "AdminHostelManager\\RoomAllocationList.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T05:08:43.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StudenList.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Nilaksh\\source\\repos\\AdminHostelManager\\AdminHostelManager\\StudenList.cs",
+              "RelativeDocumentMoniker": "AdminHostelManager\\StudenList.cs",
+              "ToolTip": "C:\\Users\\Nilaksh\\source\\repos\\AdminHostelManager\\AdminHostelManager\\StudenList.cs [Design]",
+              "RelativeToolTip": "AdminHostelManager\\StudenList.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T08:40:32.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StudenList.cs",
+              "DocumentMoniker": "C:\\Users\\Nilaksh\\source\\repos\\AdminHostelManager\\AdminHostelManager\\StudenList.cs",
+              "RelativeDocumentMoniker": "AdminHostelManager\\StudenList.cs",
+              "ToolTip": "C:\\Users\\Nilaksh\\source\\repos\\AdminHostelManager\\AdminHostelManager\\StudenList.cs",
+              "RelativeToolTip": "AdminHostelManager\\StudenList.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAuwDEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T08:40:38.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "StudentForm.cs",
+              "DocumentMoniker": "C:\\Users\\Nilaksh\\source\\repos\\AdminHostelManager\\AdminHostelManager\\StudentForm.cs",
+              "RelativeDocumentMoniker": "AdminHostelManager\\StudentForm.cs",
+              "ToolTip": "C:\\Users\\Nilaksh\\source\\repos\\AdminHostelManager\\AdminHostelManager\\StudentForm.cs",
+              "RelativeToolTip": "AdminHostelManager\\StudentForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T14:37:50.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "StudentModel.cs",
+              "DocumentMoniker": "C:\\Users\\Nilaksh\\source\\repos\\AdminHostelManager\\AdminHostelManager\\Models\\StudentModel.cs",
+              "RelativeDocumentMoniker": "AdminHostelManager\\Models\\StudentModel.cs",
+              "ToolTip": "C:\\Users\\Nilaksh\\source\\repos\\AdminHostelManager\\AdminHostelManager\\Models\\StudentModel.cs",
+              "RelativeToolTip": "AdminHostelManager\\Models\\StudentModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T08:45:26.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "StudentForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Nilaksh\\source\\repos\\AdminHostelManager\\AdminHostelManager\\StudentForm.Designer.cs",
+              "RelativeDocumentMoniker": "AdminHostelManager\\StudentForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Nilaksh\\source\\repos\\AdminHostelManager\\AdminHostelManager\\StudentForm.Designer.cs",
+              "RelativeToolTip": "AdminHostelManager\\StudentForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T08:48:20.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Nilaksh\\source\\repos\\AdminHostelManager\\AdminHostelManager\\Form1.cs",
+              "RelativeDocumentMoniker": "AdminHostelManager\\Form1.cs",
+              "ToolTip": "C:\\Users\\Nilaksh\\source\\repos\\AdminHostelManager\\AdminHostelManager\\Form1.cs [Design]",
+              "RelativeToolTip": "AdminHostelManager\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T16:53:21.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AllocateRooms.cs",
+              "DocumentMoniker": "C:\\Users\\Nilaksh\\source\\repos\\AdminHostelManager\\AdminHostelManager\\AllocateRooms.cs",
+              "RelativeDocumentMoniker": "AdminHostelManager\\AllocateRooms.cs",
+              "ToolTip": "C:\\Users\\Nilaksh\\source\\repos\\AdminHostelManager\\AdminHostelManager\\AllocateRooms.cs",
+              "RelativeToolTip": "AdminHostelManager\\AllocateRooms.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T08:53:00.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Nilaksh\\source\\repos\\AdminHostelManager\\AdminHostelManager\\Form1.cs",
+              "RelativeDocumentMoniker": "AdminHostelManager\\Form1.cs",
+              "ToolTip": "C:\\Users\\Nilaksh\\source\\repos\\AdminHostelManager\\AdminHostelManager\\Form1.cs",
+              "RelativeToolTip": "AdminHostelManager\\Form1.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAuwCMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T17:06:01.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Nilaksh\\source\\repos\\AdminHostelManager\\AdminHostelManager\\Dashboard.cs",
+              "RelativeDocumentMoniker": "AdminHostelManager\\Dashboard.cs",
+              "ToolTip": "C:\\Users\\Nilaksh\\source\\repos\\AdminHostelManager\\AdminHostelManager\\Dashboard.cs [Design]",
+              "RelativeToolTip": "AdminHostelManager\\Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T17:58:40.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dashboard.cs",
+              "DocumentMoniker": "C:\\Users\\Nilaksh\\source\\repos\\AdminHostelManager\\AdminHostelManager\\Dashboard.cs",
+              "RelativeDocumentMoniker": "AdminHostelManager\\Dashboard.cs",
+              "ToolTip": "C:\\Users\\Nilaksh\\source\\repos\\AdminHostelManager\\AdminHostelManager\\Dashboard.cs",
+              "RelativeToolTip": "AdminHostelManager\\Dashboard.cs",
+              "ViewState": "AgIAAI4AAAAAAAAAAAAlwKAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T18:01:57.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "StudenList.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Nilaksh\\source\\repos\\AdminHostelManager\\AdminHostelManager\\StudenList.Designer.cs",
+              "RelativeDocumentMoniker": "AdminHostelManager\\StudenList.Designer.cs",
+              "ToolTip": "C:\\Users\\Nilaksh\\source\\repos\\AdminHostelManager\\AdminHostelManager\\StudenList.Designer.cs",
+              "RelativeToolTip": "AdminHostelManager\\StudenList.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T08:53:56.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AllocateRooms.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Nilaksh\\source\\repos\\AdminHostelManager\\AdminHostelManager\\AllocateRooms.cs",
+              "RelativeDocumentMoniker": "AdminHostelManager\\AllocateRooms.cs",
+              "ToolTip": "C:\\Users\\Nilaksh\\source\\repos\\AdminHostelManager\\AdminHostelManager\\AllocateRooms.cs [Design]",
+              "RelativeToolTip": "AdminHostelManager\\AllocateRooms.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T10:14:28.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nilaksh\\source\\repos\\AdminHostelManager\\AdminHostelManager\\Program.cs",
+              "RelativeDocumentMoniker": "AdminHostelManager\\Program.cs",
+              "ToolTip": "C:\\Users\\Nilaksh\\source\\repos\\AdminHostelManager\\AdminHostelManager\\Program.cs",
+              "RelativeToolTip": "AdminHostelManager\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T09:24:37.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Nilaksh\\source\\repos\\AdminHostelManager\\AdminHostelManager\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "AdminHostelManager\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Nilaksh\\source\\repos\\AdminHostelManager\\AdminHostelManager\\Form1.Designer.cs",
+              "RelativeToolTip": "AdminHostelManager\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T08:15:10.691Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

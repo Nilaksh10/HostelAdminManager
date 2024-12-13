@@ -12,3 +12,7 @@ C:\Users\Nilaksh\source\repos\AdminHostelManager\AdminHostelManager\obj\Debug\Ad
 C:\Users\Nilaksh\source\repos\AdminHostelManager\AdminHostelManager\obj\Debug\AdminHostelManager.StudentForm.resources
 C:\Users\Nilaksh\source\repos\AdminHostelManager\AdminHostelManager\obj\Debug\AdminHostelManager.StudenList.resources
 C:\Users\Nilaksh\source\repos\AdminHostelManager\AdminHostelManager\obj\Debug\AdminHostelManager.AllocateRooms.resources
+C:\Users\Nilaksh\source\repos\AdminHostelManager\AdminHostelManager\obj\Debug\AdminHostelManager.RoomAllocationList.resources
+C:\Users\Nilaksh\source\repos\AdminHostelManager\AdminHostelManager\obj\Debug\AdminHostelManager.Complaints.resources
+C:\Users\Nilaksh\source\repos\AdminHostelManager\AdminHostelManager\obj\Debug\AdminHostelManager.Attendance.resources
+C:\Users\Nilaksh\source\repos\AdminHostelManager\AdminHostelManager\obj\Debug\AdminHostelManager.ComplaintList.resources

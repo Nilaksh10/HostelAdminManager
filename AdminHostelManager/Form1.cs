@@ -23,7 +23,7 @@ namespace AdminHostelManager
             string password = "123456";
             string entered_username = usernameTextbox.Text;
             string entered_password = passwordTextbox.Text;
-            if(entered_username==username&& entered_password == password)
+            if(entered_username==username && entered_password == password)
             {
                 MessageBox.Show("Login Successfull");
                 Dashboard dashboard = new Dashboard();

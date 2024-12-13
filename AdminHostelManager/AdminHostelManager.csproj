@@ -52,6 +52,25 @@
     <Compile Include="AllocateRooms.Designer.cs">
       <DependentUpon>AllocateRooms.cs</DependentUpon>
     </Compile>
+    <Compile Include="Attendance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Attendance.Designer.cs">
+      <DependentUpon>Attendance.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ComboBoxItem.cs" />
+    <Compile Include="ComplaintList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ComplaintList.Designer.cs">
+      <DependentUpon>ComplaintList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Complaints.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Complaints.Designer.cs">
+      <DependentUpon>Complaints.cs</DependentUpon>
+    </Compile>
     <Compile Include="Dashboard.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -69,6 +88,12 @@
     <Compile Include="Models\StudentModel.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RoomAllocationList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RoomAllocationList.Designer.cs">
+      <DependentUpon>RoomAllocationList.cs</DependentUpon>
+    </Compile>
     <Compile Include="StudenList.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -83,6 +108,15 @@
     </Compile>
     <EmbeddedResource Include="AllocateRooms.resx">
       <DependentUpon>AllocateRooms.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Attendance.resx">
+      <DependentUpon>Attendance.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ComplaintList.resx">
+      <DependentUpon>ComplaintList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Complaints.resx">
+      <DependentUpon>Complaints.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Dashboard.resx">
       <DependentUpon>Dashboard.cs</DependentUpon>
@@ -99,6 +133,9 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="RoomAllocationList.resx">
+      <DependentUpon>RoomAllocationList.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="StudenList.resx">
       <DependentUpon>StudenList.cs</DependentUpon>
     </EmbeddedResource>
